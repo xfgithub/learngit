@@ -1,2 +1,0 @@
-learning git wxf.
-est use git version control system.
